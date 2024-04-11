@@ -2,6 +2,9 @@
 
 This project aims to classify malaria cell images into two categories: "Parasitized" and "Uninfected". Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. Rapid and accurate diagnosis of malaria is crucial for effective disease management and control.
 
+![image](https://github.com/JITESHMD/Disease_Identification_and_Progression_Monitoring-/assets/121152161/f9686755-e929-4094-a302-e1293e9e413d)
+
+
 # Project Explanation
 Malaria remains a significant public health issue in many parts of the world, particularly in tropical and subtropical regions. Early detection and treatment of malaria cases are essential for reducing mortality rates and preventing the spread of the disease.
 
@@ -44,6 +47,10 @@ pandas
 matplotlib
 scikit-learn
 keras
+
+
+![image](https://github.com/JITESHMD/Disease_Identification_and_Progression_Monitoring-/assets/121152161/db98ba49-dde0-4993-bce5-76447608a425)
+
 
 # Credits
 This project was created by Jitesh.
