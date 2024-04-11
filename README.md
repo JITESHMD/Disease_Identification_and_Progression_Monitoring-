@@ -10,7 +10,11 @@ This project utilizes deep learning techniques, specifically Convolutional Neura
 # The main objectives of this project are:
 
 Automated Diagnosis: Develop a system capable of automatically diagnosing malaria from microscopic blood cell images with high accuracy.
+
+
 Efficiency: Provide a fast and efficient method for malaria diagnosis, reducing the time and resources required for manual examination by healthcare professionals.
+
+
 Scalability: Create a scalable solution that can be deployed in various healthcare settings, including resource-limited regions where access to trained medical personnel may be limited.
 
 # Project Structure
